@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -19,6 +19,7 @@
 		F4F0A9D1259EC79B008B09DD /* rxswift_practice1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F0A9D0259EC79B008B09DD /* rxswift_practice1Tests.swift */; };
 		F4F0A9DC259EC79B008B09DD /* rxswift_practice1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4F0A9DB259EC79B008B09DD /* rxswift_practice1UITests.swift */; };
 		F4F0A9ED259ED120008B09DD /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = F4F0A9EC259ED120008B09DD /* Podfile */; };
+		F4F0AA08259F082E008B09DD /* REAdME.md in Resources */ = {isa = PBXBuildFile; fileRef = F4F0AA07259F082E008B09DD /* REAdME.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		F4F0A9DB259EC79B008B09DD /* rxswift_practice1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rxswift_practice1UITests.swift; sourceTree = "<group>"; };
 		F4F0A9DD259EC79B008B09DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F4F0A9EC259ED120008B09DD /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
+		F4F0AA07259F082E008B09DD /* REAdME.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = REAdME.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				F4F0A9C4259EC79A008B09DD /* LaunchScreen.storyboard */,
 				F4F0A9C7259EC79A008B09DD /* Info.plist */,
 				F4F0A9EC259ED120008B09DD /* Podfile */,
+				F4F0AA07259F082E008B09DD /* REAdME.md */,
 			);
 			path = "rxswift-practice1";
 			sourceTree = "<group>";
@@ -168,7 +171,6 @@
 				BD1E24F0A7F4586DADD28987 /* Pods-rxswift-practice1Tests.debug.xcconfig */,
 				7CE4DD8CA1E598DF571A7759 /* Pods-rxswift-practice1Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -282,6 +284,7 @@
 			files = (
 				F4F0A9C6259EC79A008B09DD /* LaunchScreen.storyboard in Resources */,
 				F4F0A9C3259EC79A008B09DD /* Assets.xcassets in Resources */,
+				F4F0AA08259F082E008B09DD /* REAdME.md in Resources */,
 				F4F0A9ED259ED120008B09DD /* Podfile in Resources */,
 				F4F0A9C1259EC799008B09DD /* Main.storyboard in Resources */,
 			);
